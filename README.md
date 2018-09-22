@@ -8,9 +8,9 @@ This project is based on the tutorial on [Building a Dead Simple Speech Recognit
 Input: speech -----> CNN -----> Output: text
 
 ## Data
-audio_data dirctory contains three folders: bed, cat and happy. Each folder contains around 1700 audio files.
+Download the data from [Speech Commands Data Set v0.01](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data)
 
-[Speech Commands Data Set v0.01](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data)
+Create a dirctory called 'data', which contains three folders: bed, cat and happy. Each folder contains around 1700 audio files.
 
 ## First thing to do
 Audio embedding - MFCCs
