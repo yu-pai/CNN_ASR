@@ -10,6 +10,8 @@ Input: speech -----> CNN -----> Output: text
 ## Data
 audio_data dirctory contains three folders: bed, cat and happy. Each folder contains around 1700 audio files.
 
+[Speech Commands Data Set v0.01](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data)
+
 ## First thing to do
 Audio embedding - MFCCs
 ### Prepocessing audio files
